@@ -10,7 +10,8 @@
   "author": "Andrew A. Grathwohl <andrew@littlstar.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^1.4.1",
+    "electron-builder": "^8.6.0"
   },
   "dependencies": {
     "raf": "^3.3.0"
