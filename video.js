@@ -36,7 +36,7 @@ const orbitController = new OrbitCameraController(ctx, {
   invert: true,
 })
 
-function myFunc(videoFile) {
+function startVid(videoFile) {
   const video = new Video(ctx, videoFile)
   const sphere = new Sphere(ctx, { envmap: video })
 
